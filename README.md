@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/devAlefhiLima/2472e61774a7c8641bdc57f2138970f8/raw/250dbb10e78d2914318efe122d9aef40b0800d2e/githubcard.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu nome é Alefhi Lima</h1>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> meu nome é Alefhi Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devalefhilima&color=green" alt="Profile views" /> </p>
 
 - 💻 Desenvolvedor front-end.
